@@ -20,20 +20,20 @@
  ---
 
 <h4 align="left">Social Media</h4>
-<a href="https://twitter.com/sysl0gic" target="_blank">
+<a href="https://twitter.com/sysl0gic">
 <img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/x.svg" alt="X" height="32" width="32"/>
 </a>
 &nbsp;
-<a href="https://stackoverflow.com/users/549372?tab=profile" target="_blank">
+<a href="https://stackoverflow.com/users/549372?tab=profile">
 <img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/so.svg" alt="Stack Overflow" height="32" width="32"/>
 </a>
 
 
 <h4 align="left">Hire Me</h4>
-<a href="https://www.peopleperhour.com/freelancer/technology-programming/martin-zeitler-software-developer-devops-engineer-jywvvm" target="_blank">
+<a href="https://www.peopleperhour.com/freelancer/technology-programming/martin-zeitler-software-developer-devops-engineer-jywvvm">
 <img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/pph.png" alt="People Per Hour" height="32" width="32"/>
 </a>
 &nbsp;
-<a href="https://www.freelancer.com/u/syslogic" target="_blank">
+<a href="https://www.freelancer.com/u/syslogic">
 <img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/fl.png" alt="Freelancer" height="32" width="32"/>
 </a>
