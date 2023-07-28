@@ -1,11 +1,15 @@
 ### GitHub Projects:
 
- - [Android Image Builder for Google Cloud Build & Cloud KMS](https://github.com/syslogic/cloudbuild-android)
+ - [Android Image Builder for Google Cloud Build](https://github.com/syslogic/cloudbuild-android)
  - [Google Cloud Functions - PHP Quickstart](https://github.com/syslogic/php-cloudfunctions-quickstart)
  - [Android Color Picker](https://github.com/syslogic/androidx-colorpicker) (incl. Composable)
  - [Android GitHub API Client](https://github.com/syslogic/androidx-github)
- - [Huawei AppGallery Connect Publishing Plugin](https://github.com/syslogic/agconnect-publishing-gradle-plugin)
  - [PHP SDK for Huawei REST API](https://github.com/syslogic/php-hms)
+
+### Gradle Plugins:
+
+- [Huawei AppGallery Connect Publishing](https://github.com/syslogic/agconnect-publishing-gradle-plugin)
+- [Google Cloud KMS](https://github.com/syslogic/google-cloud-kms-gradle-plugin)
 
 ### GCP Shell Scripts:
 
@@ -16,12 +20,10 @@
 
  ---
 
-### Further Profiles:
-
 <h4 align="left">Further Profiles</h4>
 <a href="https://stackoverflow.com/users/549372?tab=profile">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/so.svg" alt="Stack Overflow" height="30" width="40"/>
 </a>
 <a href="https://twitter.com/sysl0gic">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/x.svg" alt="X" height="30" width="40"/>
 </a>
