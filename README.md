@@ -20,10 +20,20 @@
 
  ---
 
-<h4 align="left">Further Profiles</h4>
-<a href="https://stackoverflow.com/users/549372?tab=profile">
-<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/so.svg" alt="Stack Overflow" height="30" width="40"/>
+<h4 align="left">Hire Me</h4>
+<a href="https://www.peopleperhour.com/freelancer/technology-programming/martin-zeitler-software-developer-devops-engineer-jywvvm">
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/pph.png" alt="People Per Hour" height="32" width="32"/>
 </a>
+&nbsp;
+<a href="https://www.freelancer.com/u/syslogic">
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/fl.svg" alt="Freelancer" height="32" width="32"/>
+</a>
+
+<h4 align="left">Further Profiles</h4>
 <a href="https://twitter.com/sysl0gic">
-<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/x.svg" alt="X" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/x.svg" alt="X" height="32" width="32"/>
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/549372?tab=profile">
+<img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/so.svg" alt="Stack Overflow" height="32" width="32"/>
 </a>
