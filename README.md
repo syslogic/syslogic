@@ -21,7 +21,7 @@
  ---
 
 <h4 align="left">Social Media</h4>
-<a href="https://twitter.com/sysl0gic">
+<a href="https://twitter.com/realtime604">
 <img align="center" src="https://raw.githubusercontent.com/syslogic/syslogic/master/images/x.svg" alt="X" height="32" width="32"/>
 </a>
 &nbsp;
