@@ -2,9 +2,9 @@
 - [Android GitHub API Client](https://github.com/syslogic/androidx-github)
  - [Android Color Picker](https://github.com/syslogic/androidx-colorpicker) (incl. Composable)
 
-### Android Tooling:
+### Gradle Tooling:
 - [Android Image Builder for Google Cloud Build](https://github.com/syslogic/cloudbuild-android)
-- [GitHub Package Registry Maintenance Gradle Plugin](https://github.com/syslogic/gpr-maintenance-gradle-plugin)
+- [GitHub Package Registry Maintenance Plugin](https://github.com/syslogic/gpr-maintenance-gradle-plugin)
 - [Huawei AppGallery Connect Publishing Plugin](https://github.com/syslogic/agconnect-publishing-gradle-plugin)
 - [Google Cloud KMS Plugin](https://github.com/syslogic/google-cloud-kms-gradle-plugin)
 
